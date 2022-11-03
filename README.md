@@ -1,5 +1,6 @@
 # Olá meu nome é Bruno
 
+Atualmente faço cursos voltados para o backend utilizando java desenvolvo projetos pessoais para a melhor aprendizagem , me considero entusiasta da área no qual obtenho aprendizado diariamente, tenho facilidade em aprendizagens e foco não desisto de nada até achar uma solução. Sou uma pessoa apaixonada por tecnologia amo aprender coisas novas na qual me agrega valores.
 
 ## Skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt='java' height='50'/>
