@@ -22,5 +22,5 @@ Atualmente faço cursos voltados para o backend utilizando java desenvolvo proje
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/bruno-martins-da-silva-881040232)
 
 ## Repositórios Importantes
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoMartins130&repo=Cadastro_Cliente_Podologia&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoMartins130&repo=Ordem-de-servico-BackEnd&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoMartins130&repo=Cadastro_Cliente_Podologia&theme=radical)](https://github.com/BrunoMartins130/Cadastro_Cliente_Podologia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoMartins130&repo=Ordem-de-servico-BackEnd&theme=radical)](https://github.com/BrunoMartins130/Ordem-de-servico-BackEnd)
